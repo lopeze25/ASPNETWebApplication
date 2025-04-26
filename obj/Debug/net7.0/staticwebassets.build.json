@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "P9dp98R6BYUPKDCVWvXH2BKmwLTUfAdGtY/rzs8OmSQ=",
+  "Source": "ASPNETWebApplication",
+  "BasePath": "_content/ASPNETWebApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASPNETWebApplication\\wwwroot",
+      "Source": "ASPNETWebApplication",
+      "ContentRoot": "C:\\Users\\zeke2\\Documents\\GitHub\\ASPNETWebApplication\\wwwroot\\",
+      "BasePath": "_content/ASPNETWebApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\zeke2\\Documents\\GitHub\\ASPNETWebApplication\\wwwroot\\index.html",
+      "SourceId": "ASPNETWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zeke2\\Documents\\GitHub\\ASPNETWebApplication\\wwwroot\\",
+      "BasePath": "_content/ASPNETWebApplication",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\zeke2\\Documents\\GitHub\\ASPNETWebApplication\\wwwroot\\script.js",
+      "SourceId": "ASPNETWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zeke2\\Documents\\GitHub\\ASPNETWebApplication\\wwwroot\\",
+      "BasePath": "_content/ASPNETWebApplication",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\zeke2\\Documents\\GitHub\\ASPNETWebApplication\\wwwroot\\style.css",
+      "SourceId": "ASPNETWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zeke2\\Documents\\GitHub\\ASPNETWebApplication\\wwwroot\\",
+      "BasePath": "_content/ASPNETWebApplication",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}

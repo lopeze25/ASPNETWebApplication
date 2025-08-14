@@ -24,3 +24,9 @@ C:\Users\zeke2\Documents\GitHub\ASPNETWebApplication\obj\Debug\net7.0\ASPNETWebA
 C:\Users\zeke2\Documents\GitHub\ASPNETWebApplication\obj\Debug\net7.0\ASPNETWebApplication.genruntimeconfig.cache
 C:\Users\zeke2\Documents\GitHub\ASPNETWebApplication\obj\Debug\net7.0\ref\ASPNETWebApplication.dll
 C:\Users\zeke2\Documents\GitHub\ASPNETWebApplication\bin\Debug\net7.0\ASPNETWebApplication.staticwebassets.runtime.json
+C:\Users\zeke2\Documents\GitHub\ASPNETWebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\zeke2\Documents\GitHub\ASPNETWebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zeke2\Documents\GitHub\ASPNETWebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zeke2\Documents\GitHub\ASPNETWebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zeke2\Documents\GitHub\ASPNETWebApplication\obj\Debug\net7.0\ASPNETWebApplication.csproj.AssemblyReference.cache
+C:\Users\zeke2\Documents\GitHub\ASPNETWebApplication\obj\Debug\net7.0\ASPNETWebApplication.csproj.CopyComplete
